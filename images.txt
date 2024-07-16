@@ -8,3 +8,4 @@ linuxserver/transmission:arm64v8-4.0.6
 portainer/portainer-ce:linux-arm64-2.20.3
 linuxserver/qbittorrent:arm64v8-4.6.5
 --platform=linux/arm64 mariadb:latest 
+--platform=linux/arm64/v8 adminer:4.8.1
